@@ -1,6 +1,0 @@
-{
-    "app_name": "{{ cookiecutter.app_name }}", 
-    "app_version": "{{ cookiecutter.app_version }}",
-    "app_description": "{{ cookiecutter.app_description }}",
-    "dependencies": {"nzoth": "0.1.0"}
-}
